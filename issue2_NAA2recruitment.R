@@ -1,6 +1,3 @@
-setwd("OneDrive - 国立研究開発法人 水産研究・教育機構/ref/資源管理/Fournier&Archibald,1982_R/")
-#setwd("~/Fournier&Archibald,1982_R/")
-
 # NAA
 # Year 1 ベクトル  <=  Table 1 The actual number of fish at age.
 yr1_NAA <- c(400, 1000, 600, 200, 300, 50, 10, 20, 5, 2)

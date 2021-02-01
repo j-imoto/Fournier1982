@@ -1,6 +1,3 @@
-setwd("OneDrive - 国立研究開発法人 水産研究・教育機構/ref/資源管理/Fournier&Archibald,1982_R/")
-#setwd("~/Fournier&Archibald,1982_R/")
-
 # CAA: O_ij  <=  Table 2
 CAA <- read.table("T2_CAA.tsv", sep="\t", header=TRUE)
 rownames(CAA) <- 1:20
